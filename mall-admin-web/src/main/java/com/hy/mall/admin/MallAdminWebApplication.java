@@ -8,6 +8,7 @@ public class MallAdminWebApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MallAdminWebApplication.class, args);
+        System.out.println("hello");
     }
 
 }
